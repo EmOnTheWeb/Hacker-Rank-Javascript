@@ -1,2 +1,2 @@
 # hackerRankJavascript
-record of HackerRank javascript week 2 solutions
+record of HackerRank my javascript week 2 solutions
